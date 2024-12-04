@@ -1,6 +1,6 @@
 # 2025: The Year of Agents 🚀  
 
-<video controls src="media/runner-H.mp4" style="max-width:100%; height:auto;">Your browser does not support the video tag.</video>
+<video controls src="media/runner-H.mp4" style="max-width:100%; height:auto;"></video>
 
 If you’ve been paying attention, you know I’ve shared several roadmaps this year on AI engineering, research, and getting into the space quickly and efficiently. But this? This is my **final one for 2024**, and it’s a game-changer.
 
