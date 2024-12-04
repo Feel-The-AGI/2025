@@ -8,7 +8,7 @@ If you’ve been paying attention, you know I’ve shared several roadmaps this 
 Multi-agent systems are about to take over the AI landscape, and if you’re not ahead of the curve, you’ll be playing catch-up when the industry moves forward. December is your month to lock in the knowledge and be ready to dominate 2025.  
 
 <img src="media/agent-2025.png" alt="2025 - The Year of Agents" style="max-width:80%; height:auto; display:block; margin:0 auto;"/>
-*Image Credit: [Rakesh Gohel on LinkedIn](https://www.linkedin.com/posts/rakeshgohel01_many-of-you-asked-for-an-ai-agent-learning-activity-7268270873931853824-3a3z/)*  
+Image Credit: [Rakesh Gohel on LinkedIn](https://www.linkedin.com/posts/rakeshgohel01_many-of-you-asked-for-an-ai-agent-learning-activity-7268270873931853824-3a3z/)  
 
 --- 
 
