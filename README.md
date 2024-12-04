@@ -61,7 +61,7 @@ I’ve curated **five powerful, practical courses** that will give you the skill
 ---
 
 ## **Why Start Now?**
-It’s December 4th. Most people will use this month to wind down, relax, or maybe dabble in holiday plans. But if you want to **lead the charge in 2025**, now’s the time to **put in the work**. Spend this December immersing yourself in agents. By the time January hits, you’ll be ahead of 90% of the field.
+It’s December. Most people will use this month to wind down, relax, or maybe dabble in holiday plans. But if you want to **lead the charge in 2025**, now’s the time to **put in the work**. Spend this December immersing yourself in agents. By the time January hits, you’ll be ahead of 90% of the field.
 
 **What’s the payoff?**  
 - You’ll know how to build scalable agent systems from scratch.  
