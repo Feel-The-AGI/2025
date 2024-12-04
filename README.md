@@ -1,16 +1,16 @@
 # 2025: The Year of Agents 🚀  
 
-<video controls src="media/runner-H.mp4" width="100%" height="auto">Your browser does not support the video tag.</video>
+<video controls src="media/runner-H.mp4" style="max-width:100%; height:auto;">Your browser does not support the video tag.</video>
 
 If you’ve been paying attention, you know I’ve shared several roadmaps this year on AI engineering, research, and getting into the space quickly and efficiently. But this? This is my **final one for 2024**, and it’s a game-changer.
 
 **2025 is the year of agents.**  
 Multi-agent systems are about to take over the AI landscape, and if you’re not ahead of the curve, you’ll be playing catch-up when the industry moves forward. December is your month to lock in the knowledge and be ready to dominate 2025.  
 
-![2025 - The Year of Agents](media/agent-2025.png)  
+<img src="media/agent-2025.png" alt="2025 - The Year of Agents" style="max-width:80%; height:auto; display:block; margin:0 auto;"/>  
 *Image Credit: [Rakesh Gohel on LinkedIn](https://www.linkedin.com/posts/rakeshgohel01_many-of-you-asked-for-an-ai-agent-learning-activity-7268270873931853824-3a3z/)*  
 
----
+--- 
 
 ## **Why Agents Matter**
 Agents aren’t just a buzzword—they’re systems that think, act, and collaborate to automate entire workflows. From managing travel pipelines to optimizing complex processes, **agents are the future of AI**. Whether you’re in tech, business, or even creative industries, agents are going to shape how we work, live, and solve problems.
