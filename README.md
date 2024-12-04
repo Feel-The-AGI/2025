@@ -18,9 +18,6 @@ Agents aren’t just a buzzword—they’re systems that think, act, and collabo
 
 ---
 
-## **Why Agents Matter**
-Agents aren’t just a buzzword—they’re systems that think, act, and collaborate to automate entire workflows. From managing travel pipelines to optimizing complex processes, **agents are the future of AI**. Whether you’re in tech, business, or even creative industries, agents are going to shape how we work, live, and solve problems.
-
 ### What This Roadmap Covers
 I’ve curated **five powerful, practical courses** that will give you the skills to build advanced agent systems—from scratch to production. These aren’t your average, mediocre courses. These are the ones that matter.
 
